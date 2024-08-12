@@ -1,0 +1,37 @@
++-----------------------------------------------------+
+|                     Navigation Bar                  |
+|-----------------------------------------------------|
+| Home | Portfolio | Blog | Music | Art | Contact     |
++-----------------------------------------------------+
+|                                                     |
+|                    About Section                    |
+|                                                     |
+|  -------------------------------------------------  |
+|  |                                               |  |
+|  |  Welcome to My Personal Website!              |  |
+|  |                                               |  |
+|  |  Why I Created This Website:                  |  |
+|  |  - To share stuff things that I enjoy.        |  |
+|  |  - To show what I've learned.                 |  |
+|  |  - Its an assignment that I have to do!       |  |
+|  |                                               |  |
+|  |  What Each Tab Directs To:                    |  |
+|  |  - Home: This about section.                  |  |
+|  |  - Movies/Shows: Movies & Shows that I watch. |  |
+|  |  - Videos: Videos that I like to watch.       |  |
+|  |  - Music: Music that I listen to.             |  |
+|  |  - Games: Games that I enjoy playing.         |  |
+|  |  - Contact: A form to reach out to me.        |  |
+|  |                                               |  |
+|  -------------------------------------------------  |
+|                                                     |
+|                    Social Media Links               |
+|  -------------------------------------------------  |
+|  |                                               |  |
+|  |  Follow Me:                                   |  |
+|  |  [Facebook Icon] [Twitter Icon] [Insta Icon]  |  |
+|  |  [LinkedIn Icon] [YouTube Icon]               |  |
+|  |                                               |  |
+|  -------------------------------------------------  |
+|                                                     |
++-----------------------------------------------------+
